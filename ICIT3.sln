@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ICIT3", "ICIT3\ICIT3.csproj", "{B74FB58F-0FBE-47C9-BFA1-A3707E7AE679}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B74FB58F-0FBE-47C9-BFA1-A3707E7AE679}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B74FB58F-0FBE-47C9-BFA1-A3707E7AE679}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B74FB58F-0FBE-47C9-BFA1-A3707E7AE679}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B74FB58F-0FBE-47C9-BFA1-A3707E7AE679}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DB0A3A7-3990-458D-8DAB-B798684A6899}
+	EndGlobalSection
+EndGlobal
